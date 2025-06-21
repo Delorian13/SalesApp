@@ -1,0 +1,36 @@
+Jun 05, 2025 9:22:24 PM com.salesapp.main.SalesAppMain main
+INFO: Sales Application started.
+Jun 05, 2025 9:22:24 PM com.salesapp.service.CustomerService addCustomer
+INFO: Customer added: John Doe
+Jun 05, 2025 9:22:24 PM com.salesapp.service.CustomerService addCustomer
+WARNING: Attempted to add a customer with an empty name.
+Jun 05, 2025 9:22:24 PM com.salesapp.main.SalesAppMain main
+INFO: Sales Application ended.
+Jun 05, 2025 9:22:28 PM com.salesapp.main.SalesAppMain main
+INFO: Sales Application started.
+Jun 05, 2025 9:22:28 PM com.salesapp.service.CustomerService addCustomer
+INFO: Customer added: John Doe
+Jun 05, 2025 9:22:28 PM com.salesapp.service.CustomerService addCustomer
+WARNING: Attempted to add a customer with an empty name.
+Jun 05, 2025 9:22:28 PM com.salesapp.main.SalesAppMain main
+INFO: Sales Application ended.
+Jun 05, 2025 9:22:41 PM com.salesapp.main.SalesAppMain main
+INFO: Sales Application started.
+Jun 05, 2025 9:22:41 PM com.salesapp.service.CustomerService addCustomer
+INFO: Customer added: John Doe
+Jun 05, 2025 9:22:41 PM com.salesapp.service.CustomerService addCustomer
+WARNING: Attempted to add a customer with an empty name.
+Jun 05, 2025 9:22:41 PM com.salesapp.main.SalesAppMain main
+INFO: Sales Application ended.
+Jun 05, 2025 9:23:21 PM com.salesapp.main.SalesAppMain main
+INFO: Sales Application started.
+Jun 05, 2025 9:23:21 PM com.salesapp.service.CustomerService addCustomer
+INFO: Customer added: John Doe
+Jun 05, 2025 9:23:21 PM com.salesapp.service.CustomerService addCustomer
+WARNING: Attempted to add a customer with an empty name.
+Jun 05, 2025 9:23:21 PM com.salesapp.main.SalesAppMain main
+INFO: Sales Application ended.
+Jun 12, 2025 4:25:14 PM com.salesapp.SalesAppMain main
+INFO: Sales Application started.
+Jun 20, 2025 2:10:40 PM com.salesapp.SalesAppMain main
+INFO: Sales Application started.
